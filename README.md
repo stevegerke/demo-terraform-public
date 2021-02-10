@@ -1,6 +1,6 @@
 # demo-terraform-public
 
-## Basic CLI commands:
+### Basic CLI commands:
 - terraform init to setup environment
 - terraform validate to check syntax
 - terraform plan to view the execution plan
